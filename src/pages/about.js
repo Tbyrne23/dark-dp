@@ -15,12 +15,11 @@ const Song = () => {
     audio.play()
   }
   const start2 = () => {
-    window.location.href="http://www.dolekemp96.org/agenda/issues/internet.htm";
+    audio2.play()
   }
   const start3 = () => {
     audio3.play()
   }
-  
   return (
     <div className="Song">
       <h3 className="Title">
