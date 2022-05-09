@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/final-dp/static/css/main.613aa977.css",
-    "main.js": "/final-dp/static/js/main.4148993f.js",
-    "static/media/4-01 HEAVY DAY.mp3": "/final-dp/static/media/4-01 HEAVY DAY.d4c3bb0da50c7f5d537c.mp3",
-    "static/media/ggXRD.jpg": "/final-dp/static/media/ggXRD.abba95ec516f44e80159.jpg",
-    "index.html": "/final-dp/index.html",
-    "main.613aa977.css.map": "/final-dp/static/css/main.613aa977.css.map",
-    "main.4148993f.js.map": "/final-dp/static/js/main.4148993f.js.map"
+    "main.css": "/dark-dp/static/css/main.613aa977.css",
+    "main.js": "/dark-dp/static/js/main.5c6e9150.js",
+    "static/media/4-01 HEAVY DAY.mp3": "/dark-dp/static/media/4-01 HEAVY DAY.d4c3bb0da50c7f5d537c.mp3",
+    "static/media/ggXRD.jpg": "/dark-dp/static/media/ggXRD.abba95ec516f44e80159.jpg",
+    "index.html": "/dark-dp/index.html",
+    "main.613aa977.css.map": "/dark-dp/static/css/main.613aa977.css.map",
+    "main.5c6e9150.js.map": "/dark-dp/static/js/main.5c6e9150.js.map"
   },
   "entrypoints": [
     "static/css/main.613aa977.css",
-    "static/js/main.4148993f.js"
+    "static/js/main.5c6e9150.js"
   ]
 }
