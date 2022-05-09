@@ -5,7 +5,7 @@ import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Routes, Route}
     from 'react-router-dom';
 import Home from './pages';
-import Song from './pages/about';
+import Song from './pages/songs';
 import Sponsors from './pages/sponsor';
   
 function App() {
